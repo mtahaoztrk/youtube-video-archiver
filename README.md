@@ -43,22 +43,6 @@ THUMBNAIL.jpg
 ⚙️ Requirements (for Python version)
 pip install pytube PySimpleGUI
 
-🧱 Build Executable (Optional)
-
-If you want to turn this script into a .exe file for Windows:
-
-pip install pyinstaller
-pyinstaller --onefile --windowed youtube_video_archiver.py
-
-
-After the process finishes, your executable will be located in the dist folder:
-
-dist/
- └── youtube_video_archiver.exe
-
-
-You can upload that .exe file to GitHub (under Releases) if you want others to download it easily.
-
 📦 Example Output Folder
 Desktop/
  └── Example Video Title/
