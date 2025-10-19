@@ -4,6 +4,8 @@
 A simple Python GUI application that allows you to download YouTube videos, along with their description, publish date, view count, and thumbnail image.
 All files are automatically organized into a folder on your desktop named after the video title.
 
+Now Download for windows: https://github.com/mtahaoztrk/youtube-video-archiver/releases/latest
+
 🧩 Features
 
 Download any public YouTube video in the highest available resolution
